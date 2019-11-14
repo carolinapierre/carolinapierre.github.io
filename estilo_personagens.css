@@ -1,0 +1,114 @@
+/* ----- FONTES ------
+font-family: 'Amatic SC', cursive;
+font-family: 'Anton', sans-serif;
+font-family: 'Cedarville Cursive', cursive;
+}
+*/
+
+html, body {
+	height: 100%;
+	width: 100%;
+}
+
+header {
+
+	background-color: #161515;
+	background-size: cover;
+
+}
+
+
+.navbar-text li{
+	color: #fff;
+	display: inline-block;
+	float: right;
+	font-family: 'Amatic SC', cursive;
+	font-size: 32px;
+	margin: 10px 5px;
+	position: relative;
+	list-style: none;
+	letter-spacing: 4px;
+
+}
+
+.navbar-text a{
+	color: #fff;
+}
+
+ #fixo {
+ 	background-color: #4C265E;
+ 	padding: 3px;
+ }
+
+ .navbar-text a:hover{
+ 	background-color: #dd99ff;
+	text-decoration: none;
+	padding: 3px;
+ }
+
+
+.article-1 {
+	background-color: #161515
+
+}
+
+.article-1 h2,p,em{
+	color: #fff;
+}
+
+
+
+
+.article-2 {
+	background-color: #161515
+
+}
+
+.article-2 h2,p,em{
+	color: #fff;
+}
+
+
+.article-3 {
+	background-color: #161515
+
+}
+
+.article-3 h2,p,em{
+	color: #fff;
+}
+
+
+
+.article-4 {
+	background-color: #161515
+
+}
+
+.article-4 h2,p,em{
+	color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* MEDIA QUERIES */
+
+@media (max-width: 992px) {
+
+}
+
+@media (max-width: 768px) {
+
+}
+
+@media (max-width: 576px) {
+
+}
