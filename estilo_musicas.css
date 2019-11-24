@@ -2,8 +2,7 @@
 
 header {
 	background-attachment: relative;
-	background-image: url("./imagens/Imagem-3.jpg");
-	background-position: center;
+	background-image: url("./imagens/padrao.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 	height: 1080px;
@@ -49,6 +48,7 @@ header {
 
 .musicas {
 	background-color: #fff;
+	color: #140F1F;
 	opacity: 0.8;
 	margin-right: 20%;
 	margin-left: 20%;
@@ -59,7 +59,11 @@ header {
 }
 
 .musicas li {
-	color: #000;
+	color: #140F1F;
+	font-family: 'Allura', cursive;
+	font-size: 1.7rem;
+	list-style: none;
+
 }
 
 
@@ -74,5 +78,39 @@ header {
 
 }
 
+#music h3{
+	font-family: 'Allura', cursive;
+	font-size: 3rem;
+}
+
+.lead {
+	font-family: 'Montserrat', sans-serif;
+
+}
+
+.iniciar {
+	font-family: 'Allura', cursive;
+	font-size: 2rem;
+
+}
+
+h3 {
+	margin-left: 4rem;
+}
+
+
+/* MEDIA QUERIES */
+
+@media (max-width: 992px) {
+
+}
+
+@media (max-width: 768px) {
+
+}
+
+@media (max-width: 576px) {
+
+}
 
 
